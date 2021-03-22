@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8f94e22300bc8d2a5eb01c4638a21332/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d2d68eda91265d9d207345831497996d/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_async-storage] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_clipboard] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_slider] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [:react-native-localize] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e914dceb5c9f1f637a86cc22e12feb8a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/82c431d6570f9906d1e72d9047a13c97/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b872fce790f60a0c41ec27c3816d367b/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3177b7edad48c925a9234a8a4aca9303/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4d8edc88e9020b5ceab7047f3147592b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/6d9ea8d87cefdfffda3778b56c2f2370/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/724d91f6460efc6b6ac36a842734c130/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/5adda672104ebe6d9429c423b2c04f22/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/43d6def0340b886921036068cd76b373/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a8a4a39fb32d4cd05287b28b8c61b9d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d606f0eabcfcbbee6e40477e41bee973/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ebf39fe32d72d1c799b18ef0c4494bbb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cce33bee3281ba0a69e7a8a57607d33f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e01d1a7116a73deb3185368996467bf3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/14086191bcff37f705e51f9c282a1d92/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7d493940c45cc0c645d76cb3c4efc40e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d3e997f0e0baaf3d5300b80c0fbc7f74/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bd3b68bbe3a106f610b7d1edfb8a6297/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4f426a44905a6466e2181eb42cdcaadf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bf040ee3ad9bbd6094333b1c26949efa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a71c08f6ef5912d0a7f4fff40af23d2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2ee4e5b47c8849068d8f7e76cb12ea01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cfaa50b7e479baf2d4212735cde8d29e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/60d590017669ac7d10c4afef63173da8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/19689842db85149f1377ab4d8c41104b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b3283e5d20e79ab497ad6bceff177e8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ed97c74d2bb2ae00902d6acd4d922cc5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3ade184295c741360fd2e98dac67335a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7e6bcc2c31ae44c7285292aafafd497a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bdbf70e6a476a45af462c1b0edafd86e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ef27e505b478d4846380516322031e44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/78ace3e4e5274f36966c9295029d24a5/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/79e0ed83b85814ac688f88da425ee60d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/a6e62c7162dcfa21410162e53bd64bfe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d29f5bcc916200f7775338b8de771fca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b7be4b2a14f4ecaabeee385dd79b97c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/be22fe8137b4cf67e3139c6a7f82c1d4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/832bc5015855165d2a703b576af18334/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8a9e70efc030b8fe8cffe3425f661991/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/63be33ede6773e87d2a3bf223a27c28c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/68c47404fd1bd0e78b5ae991bffd8418/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/65d046b22db2ff96a3090c785bc00d85/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e914dceb5c9f1f637a86cc22e12feb8a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e914dceb5c9f1f637a86cc22e12feb8a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e01d1a7116a73deb3185368996467bf3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e01d1a7116a73deb3185368996467bf3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/14086191bcff37f705e51f9c282a1d92/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/14086191bcff37f705e51f9c282a1d92/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/78ace3e4e5274f36966c9295029d24a5/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/78ace3e4e5274f36966c9295029d24a5/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/68c47404fd1bd0e78b5ae991bffd8418/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/68c47404fd1bd0e78b5ae991bffd8418/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.p2p_platform.MainActivity
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:18:9-48
+	android:configChanges
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8f94e22300bc8d2a5eb01c4638a21332/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8f94e22300bc8d2a5eb01c4638a21332/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d2d68eda91265d9d207345831497996d/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d2d68eda91265d9d207345831497996d/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_async-storage] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:4:5-6:41
+MERGED from [:react-native-i18n] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-i18n/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:4:5-6:41
+MERGED from [:react-native-localize] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e914dceb5c9f1f637a86cc22e12feb8a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e914dceb5c9f1f637a86cc22e12feb8a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/82c431d6570f9906d1e72d9047a13c97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/82c431d6570f9906d1e72d9047a13c97/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b872fce790f60a0c41ec27c3816d367b/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b872fce790f60a0c41ec27c3816d367b/AndroidManifest.xml:20:5-43
+MERGED from [org.webkit:android-jsc:r245459] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3177b7edad48c925a9234a8a4aca9303/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3177b7edad48c925a9234a8a4aca9303/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/jwchoi/Documents/Sirius/01.project/funket/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4d8edc88e9020b5ceab7047f3147592b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4d8edc88e9020b5ceab7047f3147592b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/6d9ea8d87cefdfffda3778b56c2f2370/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/6d9ea8d87cefdfffda3778b56c2f2370/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/724d91f6460efc6b6ac36a842734c130/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/724d91f6460efc6b6ac36a842734c130/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/5adda672104ebe6d9429c423b2c04f22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/5adda672104ebe6d9429c423b2c04f22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/43d6def0340b886921036068cd76b373/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/43d6def0340b886921036068cd76b373/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a8a4a39fb32d4cd05287b28b8c61b9d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a8a4a39fb32d4cd05287b28b8c61b9d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d606f0eabcfcbbee6e40477e41bee973/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d606f0eabcfcbbee6e40477e41bee973/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ebf39fe32d72d1c799b18ef0c4494bbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ebf39fe32d72d1c799b18ef0c4494bbb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cce33bee3281ba0a69e7a8a57607d33f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cce33bee3281ba0a69e7a8a57607d33f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e01d1a7116a73deb3185368996467bf3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/e01d1a7116a73deb3185368996467bf3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/14086191bcff37f705e51f9c282a1d92/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/14086191bcff37f705e51f9c282a1d92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7d493940c45cc0c645d76cb3c4efc40e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7d493940c45cc0c645d76cb3c4efc40e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d3e997f0e0baaf3d5300b80c0fbc7f74/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d3e997f0e0baaf3d5300b80c0fbc7f74/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bd3b68bbe3a106f610b7d1edfb8a6297/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bd3b68bbe3a106f610b7d1edfb8a6297/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4f426a44905a6466e2181eb42cdcaadf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/4f426a44905a6466e2181eb42cdcaadf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bf040ee3ad9bbd6094333b1c26949efa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bf040ee3ad9bbd6094333b1c26949efa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a71c08f6ef5912d0a7f4fff40af23d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3a71c08f6ef5912d0a7f4fff40af23d2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2ee4e5b47c8849068d8f7e76cb12ea01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2ee4e5b47c8849068d8f7e76cb12ea01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cfaa50b7e479baf2d4212735cde8d29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/cfaa50b7e479baf2d4212735cde8d29e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/60d590017669ac7d10c4afef63173da8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/60d590017669ac7d10c4afef63173da8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/19689842db85149f1377ab4d8c41104b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/19689842db85149f1377ab4d8c41104b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b3283e5d20e79ab497ad6bceff177e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b3283e5d20e79ab497ad6bceff177e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ed97c74d2bb2ae00902d6acd4d922cc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ed97c74d2bb2ae00902d6acd4d922cc5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3ade184295c741360fd2e98dac67335a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/3ade184295c741360fd2e98dac67335a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7e6bcc2c31ae44c7285292aafafd497a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/7e6bcc2c31ae44c7285292aafafd497a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bdbf70e6a476a45af462c1b0edafd86e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/bdbf70e6a476a45af462c1b0edafd86e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/2e8437056f6f010b89560c3f79d77cf8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ef27e505b478d4846380516322031e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/ef27e505b478d4846380516322031e44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/78ace3e4e5274f36966c9295029d24a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/78ace3e4e5274f36966c9295029d24a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/79e0ed83b85814ac688f88da425ee60d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/79e0ed83b85814ac688f88da425ee60d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/a6e62c7162dcfa21410162e53bd64bfe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/a6e62c7162dcfa21410162e53bd64bfe/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d29f5bcc916200f7775338b8de771fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/d29f5bcc916200f7775338b8de771fca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b7be4b2a14f4ecaabeee385dd79b97c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/b7be4b2a14f4ecaabeee385dd79b97c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/be22fe8137b4cf67e3139c6a7f82c1d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/be22fe8137b4cf67e3139c6a7f82c1d4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/832bc5015855165d2a703b576af18334/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/832bc5015855165d2a703b576af18334/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8a9e70efc030b8fe8cffe3425f661991/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/8a9e70efc030b8fe8cffe3425f661991/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/63be33ede6773e87d2a3bf223a27c28c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/63be33ede6773e87d2a3bf223a27c28c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/68c47404fd1bd0e78b5ae991bffd8418/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/68c47404fd1bd0e78b5ae991bffd8418/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/65d046b22db2ff96a3090c785bc00d85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/65d046b22db2ff96a3090c785bc00d85/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/jwchoi/Documents/Sirius/01.project/funket/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/jwchoi/.gradle/caches/transforms-2/files-2.1/025bab18f4c4ec9dfad08f343c603517/AndroidManifest.xml:16:22-73

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06b8d3d8-08cb-49fe-b89b-f09fc8a327ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/avatar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/avatar.imageset/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/background.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/background.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/camera.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/camera.imageset/camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/default-avatar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/default-avatar.imageset/default-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/calendar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/calendar.imageset/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/components.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/components.imageset/components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/grids.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/grids.imageset/grids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/home.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/home.imageset/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/menu.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/menu.imageset/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/pages.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/pages.imageset/pages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/settings.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/settings.imageset/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/user.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/user.imageset/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/user_min.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/drawer/user_min.imageset/user_min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/arrow-back.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/arrow-back.imageset/arrow-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/arrow-back.imageset/arrow-back@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/arrow-back.imageset/arrow-back@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/checkIcon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/checkIcon.imageset/checkIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Avatar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Avatar.imageset/icon_Avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Check.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Check.imageset/icon_Check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Check.imageset/icon_Check@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Check.imageset/icon_Check@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Empty.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Empty.imageset/icon_Empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Empty.imageset/icon_Empty@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Empty.imageset/icon_Empty@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Mileage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Mileage.imageset/icon_Mileage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Mileage.imageset/icon_Mileage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_Mileage.imageset/icon_Mileage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeHistory.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeHistory.imageset/icon_TradeHistory.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeHistory.imageset/icon_TradeHistory@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeHistory.imageset/icon_TradeHistory@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeStatus.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeStatus.imageset/icon_TradeStatus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeStatus.imageset/icon_TradeStatus@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/icons/icon_TradeStatus.imageset/icon_TradeStatus@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/logo_funket.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/logo_funket.imageset/logo_funket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/logo_funket.imageset/logo_funket@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/logo_funket.imageset/logo_funket@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/nike1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/nike1.imageset/nike1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/nike2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/nike2.imageset/nike2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/calendar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/calendar.imageset/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/chart.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/chart.imageset/chart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/chat.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/chat.imageset/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/gallery.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/gallery.imageset/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/profile.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/pages/profile.imageset/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/calendar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/calendar.imageset/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/calendar.imageset/calendar@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/calendar.imageset/calendar@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/components.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/components.imageset/components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/components.imageset/components@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/components.imageset/components@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/grids.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/grids.imageset/grids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/grids.imageset/grids@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/grids.imageset/grids@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/home.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/home.imageset/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/home.imageset/home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/home.imageset/home@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/pages.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/pages.imageset/pages.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/pages.imageset/pages@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/p2p_platform/Images.xcassets/images/tabbar/pages.imageset/pages@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/Fontisto.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Fontisto.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/tabbar/calendar@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/images/tabbar/calendar@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/tabbar/calendar@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/images/tabbar/calendar@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/p2p_platform.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/p2p_platform.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/p2p_platform.xcodeproj/xcshareddata/xcschemes/p2p_platform.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/p2p_platform.xcodeproj/xcshareddata/xcschemes/p2p_platform.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/p2p_platform/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/p2p_platform/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CustomButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CustomButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/CustomInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/CustomInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/ListCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/ListCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/MileageList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/MileageList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/NoticeBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/NoticeBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/SignupInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/TradeList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/TradeList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/headerComponent/SubHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/headerComponent/SubHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/headerComponent/TabHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/headerComponent/TabHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/i18n/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/i18n/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/i18n/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/i18n/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/auth/login/Authstore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/auth/login/Authstore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/auth/login/saga.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/auth/login/saga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/myinfo/saga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/myinfo/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/myinfo/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/navigation/MainTabNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/navigation/MainTabNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/navigation/modalStackNavigationData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/navigation/modalStackNavigationData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/navigation/stackNavigationData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/navigation/stackNavigationData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/navigation/tabNavigationData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/navigation/tabNavigationData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/modules/rootSaga.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/modules/rootSaga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/AuthLoadingView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/auth/AuthLoadingView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/login/LoginView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/auth/login/LoginView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/auth/signup/SignupView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/auth/signup/SignupView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/HomeView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/HomeView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/mileage/MileageView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/mileage/MileageView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagecharge/MileageChargeTxidView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagecharge/MileageChargeTxidView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagecharge/MileageChargeView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagecharge/MileageChargeView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagesend/MileageSendCompView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagesend/MileageSendCompView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagesend/MileageSendView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/home/mileage/mileagesend/MileageSendView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/myinfo/MyinfoView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/myinfo/MyinfoView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/myinfo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/myinfo/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/trade/TradeView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/trade/TradeView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeApplyCompView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeApplyCompView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeApplyView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeApplyView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeDetailView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screens/main/trade/tradeapply/TradeDetailView.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gzjK1Lmmix2n20FVBL3dbe6xJY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-09T04:34:19.867Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1599625699666" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06b8d3d8-08cb-49fe-b89b-f09fc8a327ea" name="Default Changelist" comment="" />
+      <created>1595229349728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595229349728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="946" y="354" key="#PSD" timestamp="1599125839086">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state x="946" y="354" key="#PSD/0.23.2560.1342@0.23.2560.1342" timestamp="1599125839086" />
+    <state x="923" y="254" key="SettingsEditor" timestamp="1599125724894">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state x="923" y="254" key="SettingsEditor/0.23.2560.1342@0.23.2560.1342" timestamp="1599125724894" />
+    <state x="797" y="261" width="1230" height="838" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599183229072">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="797" y="261" width="1230" height="838" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1599183229072" />
+    <state x="343" y="218" width="1230" height="844" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.2560.1340@0.23.2560.1340" timestamp="1599126388376" />
+    <state x="797" y="263" width="1230" height="844" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.2560.1342@0.23.2560.1342" timestamp="1599126434739" />
+    <state x="1515" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1599625684529">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="1515" y="376" key="com.intellij.ide.util.TipDialog/0.23.2560.1329@0.23.2560.1329" timestamp="1599625684529" />
+    <state x="1515" y="377" key="com.intellij.ide.util.TipDialog/0.23.2560.1331@0.23.2560.1331" timestamp="1599205878327" />
+    <state x="1515" y="378" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1599183525109" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+module Pods_p2p_platform {
+  umbrella header "Pods-p2p_platform-umbrella.h"
+
+  export *
+  module * { export * }
+}

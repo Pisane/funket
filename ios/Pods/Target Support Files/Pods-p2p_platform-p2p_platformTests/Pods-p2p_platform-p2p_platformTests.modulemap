@@ -1,0 +1,6 @@
+module Pods_p2p_platform_p2p_platformTests {
+  umbrella header "Pods-p2p_platform-p2p_platformTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
